@@ -1,0 +1,53 @@
+# Business Stack Solutions - LLMs.txt
+# AI crawler accessibility map for bizstacksolutions.com
+
+## Site Info
+Name: Business Stack Solutions
+URL: https://bizstacksolutions.com
+Description: Independent reviews and comparisons of business software for CRM, project management, invoicing, and productivity
+Founder: Malik
+Founded: 2026
+
+## Content Sections
+
+### Pillar Pages
+- /pillar/crm - CRM software reviews and comparisons
+- /pillar/project-mgmt - Project management tools
+- /pillar/business-phone - Business phone systems
+- /pillar/invoicing - Invoicing software
+- /pillar/accounting - Accounting platforms
+- /pillar/productivity - Productivity and automation tools
+
+### Blog Articles
+- /blog/best-crm-small-business - Best CRM for small business
+- /blog/best-project-management-software - Top project management tools
+- /blog/best-business-phone-system - Business phone solutions
+- /blog/best-invoicing-software - Invoicing software reviews
+- /blog/best-accounting-software - Accounting platform comparisons
+- /blog/productivity-tools-2026 - Productivity tools 2026
+- /blog/crm-vs-project-mgmt - CRM vs Project Management
+- /blog/invoicing-vs-accounting - Invoicing vs Accounting software
+- /blog/business-software-stack - Building your business tech stack
+- /blog/phone-system-features - Business phone features guide
+
+### Legal Pages
+- /legal/privacy - Privacy Policy
+- /legal/terms - Terms of Service
+- /legal/disclosure - Affiliate Disclosure
+- /legal/about - About Us
+
+## Affiliate Programs
+We review and link to: HubSpot, Pipedrive, Monday.com, Asana, ClickUp, RingCentral, Grasshopper, FreshBooks, QuickBooks, Xero, Zapier
+
+## Structured Data
+This site implements JSON-Lord schema:
+- WebSite
+- Organization
+- Article
+- Product (review)
+- FAQPage
+- BreadcrumbList
+
+## Contact
+Email: malik@stack-labs.net
+Business: Stack Labs LLC
