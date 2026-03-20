@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   title: "Business Stack Solutions | Best Business Software Reviews 2026",
   description: "Independent, unbiased reviews of business software. Compare CRM, project management, invoicing, accounting, and productivity tools for growing businesses.",
   metadataBase: new URL("https://bizstacksolutions.com"),
+  verification: {
+    google: "googleaba55ef7f6fa4725",
+  },
 };
 
 export default function RootLayout({
